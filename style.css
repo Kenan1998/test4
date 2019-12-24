@@ -1,0 +1,66 @@
+body{
+	background:		#DCDCDC;
+margin: 0;
+padding:0;
+
+	font-size: 14px; 
+	font-family: Arial
+
+}
+
+
+
+#wrapper{
+	width:990px;
+		overflow: hidden;
+	margin: 15px auto 0;
+}
+
+
+
+
+span{
+	font-weight: bold;
+	font-style: Arial, sans-serif;
+}
+
+#navigation{
+float: left;
+width: 200px;
+margin-top: 5px;
+margin-left:5px;
+
+	background:		#DCDCDC;
+}
+	
+	a:link {
+font-weight: bold;
+color: #003366;
+}
+
+#main{
+
+	width:760px;
+	float:right;
+	height: auto;
+margin-left: 20px ;
+	background:		#DCDCDC;
+	
+}
+	
+#early{
+float: right;
+width: 760px;
+	height:auto;
+margin-left: 20px ;
+	background:		#DCDCDC;
+}
+
+#coils{float: right;
+width: 760px;
+	height:auto;
+margin-left: 20px ;
+	background:		#DCDCDC;
+}
+
+	
